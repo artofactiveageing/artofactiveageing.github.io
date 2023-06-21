@@ -10,7 +10,7 @@ relative_permalinks: true
 title:            Hyde
 tagline:          'A Jekyll theme'
 description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-domain: artofactiveageing.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+#domain: artofactiveageing.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://artofactiveageing.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 baseurl: /artofactiveageing/     
 
