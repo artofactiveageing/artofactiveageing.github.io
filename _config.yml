@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Art of Active Ageing Foundation - Home Away From Home For Elders!
+title: Art of Active Ageing Foundation
 email: artofactiveageing@gmail.com
-description: Residential Wellness Centers for Senior Citizens
+description: Home Away From Home For Elders - Residential Wellness Centers for Senior Citizens
  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "artofactiveageing.github.io" # the base hostname & protocol for your site, e.g. http://example.com
